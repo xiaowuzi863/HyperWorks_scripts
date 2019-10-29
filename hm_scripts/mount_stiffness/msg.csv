@@ -1,0 +1,7 @@
+Node ID,Systerm ID,Component,Load Step,Force Magnitude
+6600,3,Z,P4_Z,200
+6600,3,Y,P4_Y,111
+6600,3,X,P4_X,200
+6598,2,Z,P2_Z,200
+6598,2,Y,P2_Y,200
+6598,2,X,P2_X,200
